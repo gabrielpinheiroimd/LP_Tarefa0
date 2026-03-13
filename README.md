@@ -15,6 +15,13 @@ Repositório da tarefa 0 de Lp 1
 
 Para compilar os programas, utilize o compilador GCC no terminal.
 
+Pode ser necessário acessar a pasta correta caso use o codespace do GitHub, para isso use o comando
+
+```bash
+cd LP1_Tarefa0 
+
+```
+
 ```bash
 gcc conta_string.c -o conta_string
 gcc fatorial.c -o fatorial
